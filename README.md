@@ -1,3 +1,3 @@
 
-# http://istelafreitathub.io
+# http://istelafreitas.github.io
 meu primeiro site
